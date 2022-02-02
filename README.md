@@ -1,11 +1,6 @@
-# mykafkajoinsplanet
-The corresponding blog post for this repository can be found here: https://mydeveloperplanet.com/2019/10/30/kafka-streams-joins-explored/
+# Simple Spatio-temporal windowing using Kafka Streams
 
-
----
-
-* `Tutorial`: https://mydeveloperplanet.com/2019/10/30/kafka-streams-joins-explored/
-* `Repo`: https://github.com/mydeveloperplanet/mykafkajoinsplanet
+The corresponding blog post for this repository can be found here: https://mydeveloperplanet.com/2019/10/30/kafka-streams-joins-explored
 
 
 ---
