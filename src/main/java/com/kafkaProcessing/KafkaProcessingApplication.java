@@ -12,11 +12,6 @@ import static com.kafkaProcessing.utils.FormatDate.*;
 import static com.kafkaProcessing.utils.ArrayUtil.*;
 
 /**
- * @see https://mydeveloperplanet.com/2019/10/30/kafka-streams-joins-explored
- * ***
- *
- * ### Step 4
- *
  * > /opt/kafka/bin/kafka-console-producer.sh --broker-list localhost:9092 --topic com.st.users.registration.event.user-registered --property "parse.key=true" --property "key.separator=:"
  * >:
  * >1:u1
